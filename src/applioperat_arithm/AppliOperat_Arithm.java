@@ -6,8 +6,8 @@
 
 package applioperat_arithm;
 
-/**
- *
+/** 
+ *Il faut aussi ajouter une description du code
  * @author Elysee Amour
  */
 public class AppliOperat_Arithm {
